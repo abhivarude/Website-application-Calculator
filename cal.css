@@ -1,0 +1,54 @@
+.width
+{
+    width: 450px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-left:30px;
+    margin: 10%;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+.caltext
+{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+.proalign
+{
+    padding: 10px 10px 10px 10px;
+}
+#one
+{
+    width: 40px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+   
+}
+.align
+{
+    padding-top: 10px;
+}
+.opbox
+{
+  
+    padding: 10px;
+}
+#screen
+{
+    border-radius: 20px;
+    width: 370px;
+}
+
+button.checkout:hover
+{
+ background-color:green;
+}
+.position
+{
+    position: fixed;
+    padding-left: 284px;
+}
